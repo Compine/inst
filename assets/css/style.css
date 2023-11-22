@@ -500,7 +500,20 @@ section {
   background: #f141d4;
   box-shadow: 0px 5px 30px rgba(65, 84, 241, 0.4);
 }
-
+.btn-get-started {
+  
+  
+  margin: 0;
+  display: block;
+  
+  line-height: 0;
+  padding: 30px 70px;
+  border-radius: 4px;
+  transition: 0.5s;
+  color: #fff;
+  background: #f141d4;
+  box-shadow: 0px 5px 30px rgba(65, 84, 241, 0.4);
+}
 .hero .btn-get-started span {
   font-family: "Nunito", sans-serif;
   font-weight: 600;
@@ -657,17 +670,7 @@ section {
   padding: 70px 0 60px;
 }
 
-.text-contact{
-  margin-top: 30px;
-  line-height: 0;
-  padding: 15px 40px;
-  border-radius: 4px;
-  transition: 0.5s;
-  color: #fff;
-  background: #f141d4;
-  box-shadow: 0px 5px 30px rgba(65, 84, 241, 0.4);
-  font-weight: bold;
-}
+
 .counts .count-box {
   display: flex;
   align-items: center;
